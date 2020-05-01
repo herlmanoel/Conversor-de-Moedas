@@ -1,0 +1,10 @@
+.conversor {
+    display: grid;
+
+    padding: 20px;
+    width: 20vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 15% auto 10%;
+
+
+}
